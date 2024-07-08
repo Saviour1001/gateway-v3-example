@@ -1,0 +1,22 @@
+{
+  "wallet": {
+    "provider": null,
+    "address": "0xA17C1eBDF88C9519E01E09aEDA8c3d3935D6b590",
+    "publicKey": "0x02080c194102bfd61e333d4bf49a68b7d3df1cb54ac42baf5184964308ad2d6e30",
+    "fingerprint": "0x7c38a053",
+    "parentFingerprint": "0x40c87d9f",
+    "mnemonic": {
+      "phrase": "win chef inform envelope degree orchard melt ride inspire feature suffer hint",
+      "password": "",
+      "wordlist": { "locale": "en" },
+      "entropy": "0xfb44e9ce25e39d3822adcb754a8762b5"
+    },
+    "chainCode": "0xc8024ed0b2ceb1dbc52719a2c7fd0a65314bc1c9fb2f0bf7da7e62ef75b35e86",
+    "path": "m/44'/60'/0'/0/0",
+    "index": 0,
+    "depth": 5
+  },
+  "nonce": "https://mygateway.xyz wants you to sign in with your Ethereum account:\n0xA17C1eBDF88C9519E01E09aEDA8c3d3935D6b590\n\nSign in to Gateway\n\nURI: https://mygateway.xyz\nVersion: 1\nChain ID: 137\nNonce: ktCMDrnLBYuTMJ7buoiWwg==\nIssued At: 2024-07-02T09:48:42.948Z",
+  "signature": "0xf3ce7e9c633b600a5563e097b97942ceb10c42468f2ba4d56e8c00f392ec69cd769bd6a3331f7eed2d520f3aa0c17ff46ba079c6a1bf1af8ac8855459a4654681c",
+  "jwt": ""
+}
